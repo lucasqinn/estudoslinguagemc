@@ -1,7 +1,0 @@
-#include <stdio.h>
-#include <stdlib.h>
-int main(){
-int x = 34;
-printf("%d",x);
-return 0;
-}
