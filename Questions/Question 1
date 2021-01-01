@@ -1,6 +1,0 @@
-#include <stdio.h>
-#include <stdlib.h>
-int main(){
-printf("Program start!\nProgram end.");
-return 0;
-}
